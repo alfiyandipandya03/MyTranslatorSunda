@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="GoogleLanguageName">
+        <item>@string/Sundanese</item>
+        <item>@string/Indonesian</item>
+    </string-array>
+
+    <string-array name="GoogleLanguageCode">
+        <item>su</item>
+        <item>id</item>
+    </string-array>
+</resources>

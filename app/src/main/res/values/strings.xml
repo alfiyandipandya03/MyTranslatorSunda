@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyTranslatorSunda</string>
+
+    <!-- Bahasa yang dipakai -->
+    <string name="Sundanese">Bahasa Sunda</string>
+    <string name="Indonesian">Bahasa Indonesia</string>
+</resources>
